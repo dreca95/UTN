@@ -1,0 +1,14 @@
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\FrmPpal\bin\Debug\FrmPpal.exe.config
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\FrmPpal\bin\Debug\FrmPpal.exe
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\FrmPpal\bin\Debug\FrmPpal.pdb
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\FrmPpal\bin\Debug\Recanatesi.Danila.2A.TP4.dll
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\FrmPpal\bin\Debug\Recanatesi.Danila.2A.TP4.pdb
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\FrmPpal\bin\Debug\Recanatesi.Danila.2A.TP4.dll.config
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\FrmPpal\obj\Debug\FrmPpal.csprojAssemblyReference.cache
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\FrmPpal\obj\Debug\FrmPpal.FrmPPal.resources
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\FrmPpal\obj\Debug\FrmPpal.Properties.Resources.resources
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\FrmPpal\obj\Debug\FrmPpal.csproj.GenerateResource.cache
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\FrmPpal\obj\Debug\FrmPpal.csproj.CoreCompileInputs.cache
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\FrmPpal\obj\Debug\FrmPpal.csproj.CopyComplete
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\FrmPpal\obj\Debug\FrmPpal.exe
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\FrmPpal\obj\Debug\FrmPpal.pdb

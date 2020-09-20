@@ -1,0 +1,13 @@
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\Recanatesi.Danila.2A.TP4\bin\Debug\Recanatesi.Danila.2A.TP4.dll.config
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\Recanatesi.Danila.2A.TP4\bin\Debug\Recanatesi.Danila.2A.TP4.dll
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\Recanatesi.Danila.2A.TP4\bin\Debug\Recanatesi.Danila.2A.TP4.pdb
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\Recanatesi.Danila.2A.TP4\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\Recanatesi.Danila.2A.TP4\obj\Debug\Recanatesi.Danila.2A.TP4.dll
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP4\Recanatesi.Danila.2A.TP4\obj\Debug\Recanatesi.Danila.2A.TP4.pdb
+C:\Users\danre\OneDrive\Escritorio\Lab2-TPs-master\Recanatesi.Danila.2A.TP4\Recanatesi.Danila.2A.TP4\bin\Debug\Recanatesi.Danila.2A.TP4.dll.config
+C:\Users\danre\OneDrive\Escritorio\Lab2-TPs-master\Recanatesi.Danila.2A.TP4\Recanatesi.Danila.2A.TP4\bin\Debug\Recanatesi.Danila.2A.TP4.dll
+C:\Users\danre\OneDrive\Escritorio\Lab2-TPs-master\Recanatesi.Danila.2A.TP4\Recanatesi.Danila.2A.TP4\bin\Debug\Recanatesi.Danila.2A.TP4.pdb
+C:\Users\danre\OneDrive\Escritorio\Lab2-TPs-master\Recanatesi.Danila.2A.TP4\Recanatesi.Danila.2A.TP4\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\danre\OneDrive\Escritorio\Lab2-TPs-master\Recanatesi.Danila.2A.TP4\Recanatesi.Danila.2A.TP4\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\danre\OneDrive\Escritorio\Lab2-TPs-master\Recanatesi.Danila.2A.TP4\Recanatesi.Danila.2A.TP4\obj\Debug\Recanatesi.Danila.2A.TP4.dll
+C:\Users\danre\OneDrive\Escritorio\Lab2-TPs-master\Recanatesi.Danila.2A.TP4\Recanatesi.Danila.2A.TP4\obj\Debug\Recanatesi.Danila.2A.TP4.pdb

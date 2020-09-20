@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1574863851 source:d:\nueva carpeta\parcial2\funaux.c
+	"funAux.h"
+
+1574819494 d:\nueva carpeta\parcial2\funaux.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1574863654 source:d:\nueva carpeta\parcial2\funciones.c
+	"funciones.h"
+
+1574863240 d:\nueva carpeta\parcial2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	<string.h>
+
+1574863240 d:\nueva carpeta\parcial2\linkedlist.h
+
+1574863422 source:d:\nueva carpeta\parcial2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574864068 source:d:\nueva carpeta\parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"funciones.h"
+	<string.h>
+	"funAux.h"
+
+1574863851 source:c:\users\alumno\desktop\parcial2\funaux.c
+	"funAux.h"
+
+1574819494 c:\users\alumno\desktop\parcial2\funaux.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1574863422 source:c:\users\alumno\desktop\parcial2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574863240 c:\users\alumno\desktop\parcial2\linkedlist.h
+
+1574864335 source:c:\users\alumno\desktop\parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"cachorros.h"
+	<string.h>
+	"funAux.h"
+
+1574864335 source:c:\users\alumno\desktop\parcial2\cachorros.c
+	"cachorros.h"
+
+1574863240 c:\users\alumno\desktop\parcial2\cachorros.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	<string.h>
+

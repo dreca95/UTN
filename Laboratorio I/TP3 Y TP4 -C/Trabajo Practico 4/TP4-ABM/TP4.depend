@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1574431767 source:c:\users\danre\onedrive\escritorio\tp4\app.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"App.h"
+
+1574431528 c:\users\danre\onedrive\escritorio\tp4\app.h
+	"funAux.h"
+	"LinkedList.h"
+
+1574390933 c:\users\danre\onedrive\escritorio\tp4\funaux.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1573835807 c:\users\danre\onedrive\escritorio\tp4\linkedlist.h
+
+1574426738 source:c:\users\danre\onedrive\escritorio\tp4\funaux.c
+	"funAux.h"
+
+1574427350 source:c:\users\danre\onedrive\escritorio\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574432098 source:c:\users\danre\onedrive\escritorio\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"App.h"
+	"funAux.h"
+
+1574432041 c:\users\danre\onedrive\escritorio\tp4\controller.h
+	"LinkedList.h"
+
+1574429778 source:c:\users\danre\onedrive\escritorio\tp4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"App.h"
+
+1574386069 c:\users\danre\onedrive\escritorio\tp4\parser.h
+	"LinkedList.h"
+
+1574431823 source:c:\users\danre\onedrive\escritorio\tp4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"App.h"
+	"parser.h"
+
+1574473868 source:c:\users\danre\onedrive\escritorio\nueva carpeta (2)\parcial1-master\tp4\app.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"App.h"
+
+1574474155 c:\users\danre\onedrive\escritorio\nueva carpeta (2)\parcial1-master\tp4\app.h
+	"funAux.h"
+	"LinkedList.h"
+
+1574474052 c:\users\danre\onedrive\escritorio\nueva carpeta (2)\parcial1-master\tp4\funaux.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1574458982 c:\users\danre\onedrive\escritorio\nueva carpeta (2)\parcial1-master\tp4\linkedlist.h
+
+1574474295 source:c:\users\danre\onedrive\escritorio\nueva carpeta (2)\parcial1-master\tp4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"App.h"
+	"parser.h"
+
+1574473960 c:\users\danre\onedrive\escritorio\nueva carpeta (2)\parcial1-master\tp4\controller.h
+	"LinkedList.h"
+
+1574473861 c:\users\danre\onedrive\escritorio\nueva carpeta (2)\parcial1-master\tp4\parser.h
+	"LinkedList.h"
+
+1574473960 source:c:\users\danre\onedrive\escritorio\nueva carpeta (2)\parcial1-master\tp4\funaux.c
+	"funAux.h"
+
+1574458982 source:c:\users\danre\onedrive\escritorio\nueva carpeta (2)\parcial1-master\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574473960 source:c:\users\danre\onedrive\escritorio\nueva carpeta (2)\parcial1-master\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"App.h"
+	"funAux.h"
+
+1574473861 source:c:\users\danre\onedrive\escritorio\nueva carpeta (2)\parcial1-master\tp4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"App.h"
+
+1574473868 source:c:\users\danre\onedrive\escritorio\trabajo practico 4\tp4-abm\app.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"App.h"
+
+1574474155 c:\users\danre\onedrive\escritorio\trabajo practico 4\tp4-abm\app.h
+	"funAux.h"
+	"LinkedList.h"
+
+1574474052 c:\users\danre\onedrive\escritorio\trabajo practico 4\tp4-abm\funaux.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1574458982 c:\users\danre\onedrive\escritorio\trabajo practico 4\tp4-abm\linkedlist.h
+
+1574474295 source:c:\users\danre\onedrive\escritorio\trabajo practico 4\tp4-abm\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"App.h"
+	"parser.h"
+
+1574473960 c:\users\danre\onedrive\escritorio\trabajo practico 4\tp4-abm\controller.h
+	"LinkedList.h"
+
+1574473861 c:\users\danre\onedrive\escritorio\trabajo practico 4\tp4-abm\parser.h
+	"LinkedList.h"
+
+1574473960 source:c:\users\danre\onedrive\escritorio\trabajo practico 4\tp4-abm\funaux.c
+	"funAux.h"
+
+1574458982 source:c:\users\danre\onedrive\escritorio\trabajo practico 4\tp4-abm\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574474431 source:c:\users\danre\onedrive\escritorio\trabajo practico 4\tp4-abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"App.h"
+	"funAux.h"
+
+1574473861 source:c:\users\danre\onedrive\escritorio\trabajo practico 4\tp4-abm\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"App.h"
+

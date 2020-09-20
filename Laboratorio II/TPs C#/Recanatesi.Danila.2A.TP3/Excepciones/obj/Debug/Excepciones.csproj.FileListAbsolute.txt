@@ -1,0 +1,5 @@
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb

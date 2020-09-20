@@ -1,0 +1,9 @@
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP3\Entidades\bin\Debug\Entidades.dll
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP3\Entidades\bin\Debug\Excepciones.dll
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP3\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP3\Entidades\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP3\Entidades\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP3\Entidades\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP3\Entidades\obj\Debug\Entidades.dll
+C:\Users\danre\source\repos\Recanatesi.Danila.2A.TP3\Entidades\obj\Debug\Entidades.pdb

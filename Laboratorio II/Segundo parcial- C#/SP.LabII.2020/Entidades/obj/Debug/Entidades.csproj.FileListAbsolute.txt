@@ -1,0 +1,12 @@
+C:\Users\danre\OneDrive\Escritorio\sp\SP.LabII.2020\Entidades\bin\Debug\Entidades.dll
+C:\Users\danre\OneDrive\Escritorio\sp\SP.LabII.2020\Entidades\bin\Debug\Entidades.pdb
+C:\Users\danre\OneDrive\Escritorio\sp\SP.LabII.2020\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\danre\OneDrive\Escritorio\sp\SP.LabII.2020\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\danre\OneDrive\Escritorio\sp\SP.LabII.2020\Entidades\obj\Debug\Entidades.dll
+C:\Users\danre\OneDrive\Escritorio\sp\SP.LabII.2020\Entidades\obj\Debug\Entidades.pdb
+C:\Users\danre\archivos de la otra compu\sp\SP.LabII.2020\Entidades\bin\Debug\Entidades.dll
+C:\Users\danre\archivos de la otra compu\sp\SP.LabII.2020\Entidades\bin\Debug\Entidades.pdb
+C:\Users\danre\archivos de la otra compu\sp\SP.LabII.2020\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\danre\archivos de la otra compu\sp\SP.LabII.2020\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\danre\archivos de la otra compu\sp\SP.LabII.2020\Entidades\obj\Debug\Entidades.dll
+C:\Users\danre\archivos de la otra compu\sp\SP.LabII.2020\Entidades\obj\Debug\Entidades.pdb

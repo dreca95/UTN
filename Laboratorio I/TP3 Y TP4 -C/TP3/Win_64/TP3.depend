@@ -1,0 +1,205 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573138523 source:c:\users\danre\onedrive\escritorio\tp3\win_64\funaux.c
+	"funAux.h"
+
+1573138523 c:\users\danre\onedrive\escritorio\tp3\win_64\funaux.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1573144172 source:c:\users\danre\onedrive\escritorio\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"funAux.h"
+
+1533133022 c:\users\danre\onedrive\escritorio\tp3\win_64\linkedlist.h
+
+1573138559 c:\users\danre\onedrive\escritorio\tp3\win_64\controller.h
+	"LinkedList.h"
+
+1573138543 c:\users\danre\onedrive\escritorio\tp3\win_64\employee.h
+	"funAux.h"
+	"LinkedList.h"
+
+1573138543 source:c:\users\danre\onedrive\escritorio\tp3\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1573144547 source:c:\users\danre\onedrive\escritorio\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1573141154 source:c:\users\danre\onedrive\escritorio\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"Employee.h"
+
+1573138579 c:\users\danre\onedrive\escritorio\tp3\win_64\parser.h
+	"LinkedList.h"
+
+1573156605 source:c:\users\danre\downloads\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1573154761 c:\users\danre\downloads\tp3\win_64\controller.h
+	"LinkedList.h"
+
+1573154761 c:\users\danre\downloads\tp3\win_64\linkedlist.h
+
+1573154761 c:\users\danre\downloads\tp3\win_64\employee.h
+	"funAux.h"
+	"LinkedList.h"
+
+1573151780 c:\users\danre\downloads\tp3\win_64\funaux.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1573154761 c:\users\danre\downloads\tp3\win_64\parser.h
+	"LinkedList.h"
+
+1573154761 source:c:\users\danre\downloads\tp3\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1573144172 source:c:\users\danre\downloads\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"funAux.h"
+
+1573157618 source:c:\users\danre\downloads\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"Employee.h"
+
+1573156847 source:c:\users\danre\downloads\tp3\win_64\funaux.c
+	"funAux.h"
+
+1573154761 source:c:\users\danre\onedrive\escritorio\final\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1573154761 c:\users\danre\onedrive\escritorio\final\win_64\employee.h
+	"funAux.h"
+	"LinkedList.h"
+
+1573159047 c:\users\danre\onedrive\escritorio\final\win_64\funaux.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1573154761 c:\users\danre\onedrive\escritorio\final\win_64\linkedlist.h
+
+1573156847 source:c:\users\danre\onedrive\escritorio\final\win_64\funaux.c
+	"funAux.h"
+
+1573173577 source:c:\users\danre\onedrive\escritorio\final\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"funAux.h"
+
+1573154761 c:\users\danre\onedrive\escritorio\final\win_64\controller.h
+	"LinkedList.h"
+
+1573157618 source:c:\users\danre\onedrive\escritorio\final\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"Employee.h"
+
+1573154761 c:\users\danre\onedrive\escritorio\final\win_64\parser.h
+	"LinkedList.h"
+
+1573173929 source:c:\users\danre\onedrive\escritorio\final\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
